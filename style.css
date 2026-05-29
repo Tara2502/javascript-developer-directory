@@ -1,0 +1,20 @@
+body{
+    font-family: Arial;
+    padding: 20px;
+}
+
+#developer-container{
+    display: flex;
+    gap: 20px;
+}
+
+#developer-container div{
+    border: 1px solid black;
+    padding: 15px;
+    width: 200px;
+    border-radius: 10px;
+}
+button{
+    padding: 8px 12px;
+    cursor: pointer;
+}
